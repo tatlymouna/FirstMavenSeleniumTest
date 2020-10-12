@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="11657" started-at="2020-10-10T07:06:03Z" finished-at="2020-10-10T07:06:14Z">
+  <suite name="Suite" duration-ms="23283" started-at="2020-10-12T06:36:04Z" finished-at="2020-10-12T06:36:27Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="11657" started-at="2020-10-10T07:06:03Z" finished-at="2020-10-10T07:06:14Z">
-      <class name="com.test.TestClass">
-        <test-method status="PASS" signature="Test1()[pri:0, instance:com.test.TestClass@598067a5]" name="Test1" duration-ms="11621" started-at="2020-10-09T22:06:03Z" finished-at="2020-10-09T22:06:14Z">
+    <test name="Test" duration-ms="23283" started-at="2020-10-12T06:36:04Z" finished-at="2020-10-12T06:36:27Z">
+      <class name="com.testClass.TestMain">
+        <test-method status="PASS" signature="Test()[pri:0, instance:com.testClass.TestMain@18be83e4]" name="Test" duration-ms="23256" started-at="2020-10-11T21:36:04Z" finished-at="2020-10-11T21:36:27Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Test1 -->
-      </class> <!-- com.test.TestClass -->
+        </test-method> <!-- Test -->
+      </class> <!-- com.testClass.TestMain -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

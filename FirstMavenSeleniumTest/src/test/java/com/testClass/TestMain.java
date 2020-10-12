@@ -1,4 +1,4 @@
-package com.test;
+package com.testClass;
 
 import java.net.MalformedURLException;
 import java.net.URL;
@@ -10,10 +10,10 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
-public class TestClass {
+public class TestMain {
 
 	  @Test
-	  public void Test1() throws MalformedURLException
+	  public void Test() throws MalformedURLException
 		{
 		  System.out.println("debut test");
 				
